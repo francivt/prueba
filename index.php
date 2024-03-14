@@ -5,7 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BUSES</title>
 </head>
-<h1>Aqui la pagina de fran</h1>
+<h1>Aqui la pagina de fran modificada
+    ya podemos probar
+</h1>
 <body>
     <form action="index.php" method="POST">
     <p>Ciudad de Origen<p>
